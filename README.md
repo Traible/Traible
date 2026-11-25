@@ -33,5 +33,6 @@ IT Support Engineer with 5+ years in L1/L2 support, deskside work and hardware r
 
 #### Find me
 
+[![Online CV](https://img.shields.io/badge/Online%20CV-traible.github.io-0a1620?style=flat-square&logo=githubpages&logoColor=3cc8ff)](https://traible.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-traible-0a1620?style=flat-square&logo=linkedin&logoColor=3cc8ff)](https://www.linkedin.com/in/traible)
 [![Email](https://img.shields.io/badge/Email-ar.osadchyi%40gmail.com-0a1620?style=flat-square&logo=gmail&logoColor=3cc8ff)](mailto:ar.osadchyi@gmail.com)
