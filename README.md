@@ -13,7 +13,6 @@ IT Support Engineer with 5+ years in L1/L2 support, deskside work and hardware r
 | Project | What it does |
 |---|---|
 | [**Migrator**](https://github.com/Traible/Migrator) | PowerShell tool that backs up a Windows user profile into one archive and restores it on the same PC, another PC or a new account. Skips junk, respects OneDrive/iCloud, ships an offline restore kit. Up to ~5x faster than copying by hand. |
-| [**Sanitar**](https://github.com/Traible/Sanitar-releases) | Finds and removes malware that has dug into Windows — hidden miners, RDP backdoors, antivirus blockers. One portable `.exe`. |
 
 #### Toolbox
 
